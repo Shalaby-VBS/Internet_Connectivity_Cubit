@@ -1,6 +1,4 @@
-# internet_check_cubit
-
-# 🏵 Internet Check Cubit
+# 🏵 Internet Connectivity Cubit
 
 Simple UI Screen 👍
 
