@@ -1,16 +1,19 @@
 # internet_check_cubit
 
-Internet Check Cubit
+# 🏵 Internet Check Cubit
 
-## Getting Started
+Simple UI Screen 👍
+
+## 🚀 Getting Started
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 UI
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+https://github.com/Shalaby-VBS/Internet_Connectivity_Cubit/assets/149938388/fe33e40c-a08b-48de-9e9b-6ce5fc522b82
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠 Dependencies
+
+1️⃣ flutter_bloc: ^8.1.3
+
+2️⃣ connectivity_plus: ^5.0.2
